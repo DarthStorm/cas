@@ -1,0 +1,34 @@
+body {
+    font-family: "Nunito", "Poppins", sans-serif;
+}
+
+.center-div {
+    /* rahhh how do you center a div */
+    align-items: center;
+    justify-content: center;
+    margin: 3%;
+}
+
+.hori-box {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.button {
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0.3em;
+    width: 16vw;
+    height: 0.3em;
+    margin: 1vw;
+    font-size: 40px;
+}
+
+h1 {
+    text-align: center;
+}
